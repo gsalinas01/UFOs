@@ -14,4 +14,8 @@
   * ![Screen Shot 2021-09-26 at 3 26 20 PM](https://user-images.githubusercontent.com/60943801/134823323-8e2982c5-a385-4279-aaa7-e74055baeb2c.png)
 
 ## Summary
+  * A drawback of this webpage is that the input used for filtering only accepts specific text from the table. For example, someone searching for UFO sightings in Texas would have to know to type "tx" instead of "Texas" or any other combination of letters that describe Texas.
+  * Further development of this webpage would come in the form of:
+   * Generating a function within our filter functions to address the variation that may arise in user input when searching for certain data. 
+   * Creating a dropdown of all possible options in each filter in order to facilitate the search in the case that the user does not know exactly what they want to search for. 
   * Overall this challenge was difficult yet very rewarding. The main challenge I encountered was creating the function that was able to take in changes in different filters and return them in the table data. I was able to find many resources such as StackOverflow, YouTube, and coursemates to aid in the final solution. 
